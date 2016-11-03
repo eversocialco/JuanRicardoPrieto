@@ -4202,9 +4202,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding: 9px 10px;
   margin-top: 8px;
   margin-bottom: 8px;
-  background-color: transparent;
+  background-color: rgba(238, 238, 238, 0.68);
   background-image: none;
-  border: 1px solid transparent;
+  border: 1px solid rgba(238, 238, 238, 0.68);
   border-radius: 4px;
 }
 .navbar-toggle:focus {
@@ -4215,6 +4215,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   width: 22px;
   height: 2px;
   border-radius: 1px;
+  background-color: #fff;
 }
 .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 4px;
@@ -6268,7 +6269,7 @@ button.close {
     /*left: 0%;
     right: 0%;*/
     padding-bottom: 30px;
-    bottom:36%;
+    bottom:14%;
 ;
   }
   .carousel-indicators {
@@ -6710,6 +6711,7 @@ body {
   .cover .h1 {
     font-size: 63px;
   }
+
 }
 .cover h1.text-primary {
   color: #337cbb !important;
@@ -6729,6 +6731,8 @@ body {
 .cover h1.text-danger {
   color: #d9534f !important;
 }
+
+
 @media screen and (min-width: 768px) {
   .cover {
     padding: 0px;
@@ -6800,6 +6804,112 @@ body {
 
   width: 121px;
 }
+
+.equipo-cent{
+  text-align: none;
+  margin-top: 0px;
+}
+
+
+
+.blog-img{
+  width: 369px;
+  padding-top: 20px;
+}
+.carousel .item img {
+  height: 100% 
+}
+
+#navbar-ex-collapse{
+    background: transparent;
+    border: 0px;
+    border-radius: 0px;
+    box-shadow: none;
+    padding: 0;
+    position: none;
+    top: 85px;
+    right: 0;
+    width: none;
+    margin-right: 0px;
+}
+
+.vivid{
+  background-color: transparent !important;
+}
+
+.text-caption2{
+    font-size: 30px !important;
+    text-transform: uppercase !important;
+    text-shadow: -5px 1px 5px rgba(0,0,0,.3)!important;
+}
+
+.text-caption1{
+    font-size: 22px !important;
+    text-transform: uppercase !important;
+}
+
+/*--------MEDIA 990PX-----------*/
+
+@media (max-width: 991px) {
+  
+  .equipo-cent{
+  text-align: center;
+      margin-top: 18px;
+}
+
+.blog-img{
+  width: 225px;
+  padding-top: 20px;
+}
+
+.carousel-inner{
+      height: 438px;
+}
+  }
+
+
+@media (max-width: 768px) {
+
+.carousel-inner{
+         height: 93%;
+}
+
+.navbar-nav {
+   margin: 0px 0px; 
+}
+
+#navbar-ex-collapse{
+    background: transparent;
+    border: 0px;
+    border-radius: 0px;
+    box-shadow: 0 5px 10px rgba(11,12,12,0.3);
+    padding: 0;
+    position: absolute;
+    top: 85px;
+    right: 0;
+    width: 23%;
+    margin-right: 0px;
+}
+
+.vivid{
+  background-color: #0b1732 !important;
+}
+
+}
+
+@media (max-width: 490px) {
+.text-caption2{
+    font-size: 25px !important;
+}
+
+.text-caption1{
+    font-size: 20px !important;
+   
+}
+
+}
+
+
 
 
 
