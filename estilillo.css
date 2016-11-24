@@ -5822,7 +5822,7 @@ button.close {
   height: 50px;
   overflow: scroll;
 }
-@media (min-width: 768px) {
+@media (min-width: 771px) {
   .modal-dialog {
     width: 600px;
     margin: 30px auto;
@@ -6852,6 +6852,7 @@ body {
 .text-caption1{
     font-size: 29px !important;
     text-transform: uppercase !important;
+    text-shadow: 2px 2px rgba(11, 23, 50, 0.72);
 }
 
 /*--------MEDIA 990PX-----------*/
@@ -7262,6 +7263,7 @@ color:#fff !important;
 .wrap-right {
       float: right;
     width: 285px;
+    left: 0px;
 }
 
 .page-pagi {
@@ -7422,7 +7424,39 @@ color:#000;
     margin-left: 104px;
 }
 
+.blog-border {
+        border-right: 1px solid #cbcbcb;
+        border-right: 0px solid #cbcbcb;
+  }
 
+.font-footer {
+  font-size: 22px;
+}
+
+.font-tabs {
+  font-size:18px;
+}
+
+.font-tab-text {
+  font-size:18px;
+}
+.font-directel{
+  font-size:16px ;
+}
+
+.margin-comu {
+      margin-top: 5px;
+}
+
+.per-text-bor {
+    border-left: 1px solid grey;
+    border-top: 0px solid grey;
+
+}
+
+.margin-img-per{
+  margin-bottom: 0px;
+}
 
 
 /*---------------------------MEDIA QUERYS--------------------------------------*/
@@ -7436,8 +7470,454 @@ color:#000;
       margin-right: -1%;
  }
 
+ .overlay {
+    width: 27.9%;
+    height: 20%;
+    overflow: hidden;
+    position: absolute;
+  
+    left: 260px;
+}
+
+.pad {
+  padding-bottom: 12px;
+}
+
+.line-izq {
+      left: 0px !important;
+}
+
+.line-der{
+  right: 0px !important;
+}
+
+.mar-redes{
+      margin-top: 14px !important;
+}
+
+.overlayproto{
+  top: 146px !important;
+}
+.comu-size{
+  font-size:25px;
+}
+.blog-border {
+        border-right: 1px solid #cbcbcb;
+        border-right: 0px solid #cbcbcb;
+  }
+  .font-footer {
+  font-size: 22px;
+}
+.font-tabs {
+  font-size:18px;
+}
+.font-tab-text {
+  font-size:18px;
+}
+
+.font-directel{
+  font-size:16px ;
+}
+.margin-comu {
+      margin-top: 5px;
+}
+
+.font-menu {
+  font-size:16px;
+}
+
+.padding-footer{
+  padding-bottom: 0px !important;
+}
+
+.margin-footer{
+      margin-top: 36px;
+    margin-bottom: 0px !important;
+}
+
+.margin-text-footer{
+margin-bottom: 0px !important;
+}
+
+/*-----------------------blog--------------------*/
+.wrap-left {
+    width: 400px;
+}
+
+.wrap-right {
+    float: left;
+    left: 60px;
+}
+.title-blog{
+      font-size: 24px;
+}
+
+/*---------------------perfil-----------------*/
+.per-text-bor {
+    border-left: 0px solid grey;
+    border-top: 1px solid grey;
+}
+
+#detalles ul {
+    padding-left: 0px;
+}
+
+.half {
+    width: 249px;
+    height: 23px;
+    border: 1px solid white;
+    margin: auto;
+}
+
+#per-perfiles .overlay {
+    width: 31%;
+    height: 17%;
+    overflow: hidden;
+    position: absolute;
+    top: 219px;
+    left: 249px;
+}
+
+.margin-img-per{
+  margin-bottom: 10px;
+}
+
+}
+
+@media (max-width: 769px) {
+  .text-caption1{
+    font-size:21px !important;
+  }
+
+  .comu-size{
+    font-size:21px !important ;
+  }
+
+  .over-top{
+    top:279px;
+  }
+
+  .blog-border {
+        border-right: 0px solid #cbcbcb !important;
+        border-bottom: 1px solid #cbcbcb;
+  }
+  .overlayproto {
+    top: 62px !important;
+    height: 69%;
+}
+
+.font-footer {
+  font-size: 22px !important;
+  
+}
+#footer .fa-3x {
+    font-size: 1.8em !important;
+}
+
+.margin-foo{
+  margin-bottom: 0px !important;
+}
+.font-tabs {
+  font-size:18px;
+}
+.font-tab-text {
+  font-size:18px;
+}
+.font-directel{
+  font-size:16px ;
+}
+.margin-comu {
+      margin-top: 5px;
+}
+.font-menu {
+  font-size:16px;
+}
+.margin-footer{
+      margin-top: 36px;
+    margin-bottom: 25px;
+}
+
+.navbar-left {
+    float: left !important;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.navbar-right {
+    float: left !important;
+    margin-right: 130px;
+    margin-top: 0px;
+}
+
+#navbar-ex-collapse{
+    top: 85px;
+    right: 0;
+    width: 36%;
+}
+
+.font-menu {
+  font-size:14px;
+}
+
+.navbar-collapse.in{
+  background-color: #0b1732 !important;
+}
+
+/*------------blog--------------*/
+.wrap-left {
+    width: 300px;
+}
+
+.wrap-right {
+    width: 255px;
+}
+.title-blog{
+      font-size: 24px;
+}
+#titulo-post a {
+    font-size: 20px;
+}
+
+}
+
+@media (max-width: 440px) {
+  
+.btn-lg {
+  font-size:14px;
+  
+}
+
+.font-tabs {
+  font-size:14px;
+}
+
+.font-tab-text {
+  font-size:16px;
+}
+
+.overlay{
+    width: 50.9%;
+    height: 20%;
+    overflow: hidden;
+    position: absolute;
+    left: 98px;
+}
+
+.over-top{
+  top: 367px;
+}
+
+.font-footer {
+  font-size: 15px !important;
+  
+}
+.font-directel{
+  font-size:13px !important ;
+}
+
+#footer .fa-3x {
+  font-size: 1.2em !important;
+}
+
+.mar-redes {
+    margin-top: 3px !important;
+}
+
+.overlayproto {
+    top: 34px !important;
+    height: 74%;
+}
+.margin-comu {
+      margin-top: 5px;
+}
+.font-menu {
+  font-size:16px;
+}
+.margin-footer{
+      margin-top: 36px;
+    margin-bottom: 25px;
+}
+.overlayproto {
+    top: 7px !important;
+    height: 93%;
+}
+
+.navbar-left {
+    float: right !important;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.navbar-right {
+    float: left !important;
+    margin-right: 130px;
+    margin-top: 0px;
+}
+
+#navbar-ex-collapse{
+    top: 85px;
+    right: 0;
+    width: 36%;
+}
+
+.font-menu {
+  font-size:14px;
+}
+
+.navbar-collapse.in{
+  background-color: #0b1732 !important;
+}
+
+/*---------------blog--------------*/
+.wrap-left {
+    width: 220px;
+}
+.wrap-right {
+    float: left;
+    width: 168px;
+    left: 17px;
+}
+.sbox {
+    width: 113px;
+}
+
+.wrap-right ul {
+    padding-left: 0px;
+}
+.title-blog{
+      font-size: 20px !important;
+}
+#titulo-post a {
+    font-size: 20px;
+}
+
+/*-------------perfil--------------------*/
+#per-perfiles .overlay {
+    width: 56%;
+    height: 17%;
+    overflow: hidden;
+    position: absolute;
+    top: 219px;
+    left: 87px;
+}
+
 }
 
 
+@media (max-width: 321px) {
+.btn-lg {
+    font-size: 9px;
+}
 
+.margin-comu {
+     margin-top: 16px;
+}
 
+.comu-size {
+    font-size: 16px !important;
+}
+
+div.bhoechie-tab-container{
+  margin-left: 19px;
+}
+
+.font-tabs {
+    font-size: 11px;
+}
+
+.text-caption1 {
+    font-size: 16px !important;
+}
+
+.overlay {
+    width: 69.2%;
+    height: 18%;
+    overflow: hidden;
+    position: absolute;
+    left: 44px;
+}
+
+.overlayproto {
+    top: 7px !important;
+    height: 93%;
+}
+
+.navbar-left {
+    float: right !important;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.navbar-right {
+    float: left !important;
+    margin-right: 130px;
+    margin-top: 0px;
+}
+
+#navbar-ex-collapse{
+    top: 85px;
+    right: 0;
+    width: 36%;
+}
+
+.font-menu {
+  font-size:14px;
+}
+
+.navbar-collapse.in{
+  background-color: #0b1732 !important;
+}
+
+.over-top {
+    top: 416px;
+}
+
+/*------BLOG-------*/
+
+.wrap-right {
+    width: 126px;
+}
+.wrap-left {
+    width: 150px;
+}
+.title-blog {
+    font-size: 14px !important;
+}
+
+.sbox {
+    width: 70px;
+}
+
+#titulo-post a {
+    font-size: 16px !important;
+}
+
+.font-menu {
+      font-size: 14px !important;
+}
+
+/*--------------------------------PERFIL--------------------*/
+#per-perfiles .overlay {
+    width: 75%;
+    height: 17%;
+    overflow: hidden;
+    position: absolute;
+    top: 219px;
+    left: 36px;
+}
+
+}
+
+#titulo-post a {
+    font-size: 20px;
+}
+
+.font-menu {
+  font-size:16px;
+}
+
+.title-blog{
+      font-size: 24px;
+}
+
+.pcontenido {
+      font-size: 15px;
+
+}
