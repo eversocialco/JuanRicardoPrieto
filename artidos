@@ -1,0 +1,156 @@
+<html><head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="estilillo.css" rel="stylesheet" type="text/css">
+        <link href="owl.carousel.css" rel="stylesheet" type="text/css">
+        <link href="owl.theme.css" rel="stylesheet" type="text/css">
+
+        
+         <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+             <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+             <script type="text/javascript" src="owl.carousel.js"></script>
+        <script type="text/javascript" src="owl.carousel-min.js"></script>
+        <script type="text/javascript" src="jquery.easing.min.js"></script>
+        <script type="text/javascript" src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+        <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+
+    </head><body>
+    <div class="navbar navbar-fixed-top" role="navigation" style="background-color:#transparent;color=#fff">
+   <div class="container">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+      </button>
+
+      <a href="index.html"><img src="logojuanriw.png" class="img-responsive logo-juanri" style="    margin: 8px auto"></a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-ex-collapse">
+        <ul class="nav navbar-nav navbar-right font-orig">
+        <li><a style="color:#fff;font-size: 16px" href="#">SERVICIOS</a>
+         </li>
+         <li><a style="color:#fff;font-size: 16px" href="blog.html">BLOG</a>
+         </li>
+         <li class="active" ><a style="color:#fff;font-size: 16px" href="contacto.html">CONTÁCTANOS</a>
+         </li>
+
+
+        </ul>
+        <ul class="nav navbar-nav navbar-left font-orig">
+            <li >
+            <a style="color:#fff;font-size: 16px" href="index.html">INICIO</a>
+        </li>
+            <li><a style="color:#fff;font-size: 16px;" href="#">ACERCA DE LA FIRMA</a>
+         </li>
+         <li><a style="color:#fff;font-size: 16px" href="#">ABOGADOS</a>
+         </li>
+         
+        </ul>
+    </div>
+   </div>
+</div>
+
+
+
+<div class="section" id="noticias" style="padding-bottom: 50px">
+    <div class="container">
+      <div class="wrapper">
+        <div class="wrap-left" style=" margin-top: 90px;box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7)">
+          <h1 class="font-orig" style="font-size:24px">NOVEDADES</h1>
+          <div class="post-wrap">
+            <div class="post" style="display: block">
+            <h2 id="titulo-post"class="font-orig" style="font-size:20px;color:#000;font-weight: bold"><a>Esto debe saber un abogado sobre el trámite del recurso de casación en el CGP</a></h2>
+
+            <div class="pinform">
+              <p>Posteado en <span class="date">Septiembre 1, 2016</span> | Categoria: <a href="#">Empleo</a>               </p>  
+            </div>
+            <div class="pcontenido">
+              <p style="font-size: 15px">A propósito del compendio jurisprudencial que publicó hace unas semanas la Relatoría de la Sala Civil de la Corte Suprema de Justicia sobre las sentencias y autos más relevantes del Código General del Proceso (CGP), Ámbito Jurídico continúa desarrollando esta clasificación.<br>
+En esta oportunidad trataremos el artículo 343 de este estatuto procesal, que contempla, principalmente, el trámite del recurso extraordinario de casación.<br>
+En relación con los términos del litigio propuesto, la Sala Civil de la Corte Suprema tuvo que decidir en torno a la demanda de los sucesores procesales de la parte actora dirigida a sustentar el recurso de casación contra la sentencia del ad quem.<br>
+Entonces, un auto del magistrado Luis Armando Tolosa, de la Sala Civil, sostiene que una vez admitido el recurso se dispone para la sustentación 30 días, de conformidad con el artículo 343 del CGP.<br>
+De ahí que la secretaría de la sala informara que el término otorgado había fenecido sin que se allegara la respectiva demanda de casación.<br>
+Motivo por el cual el despacho declaró desierto el recurso de casación y, como consecuencia, ordenó devolver el expediente. “Lo anterior porque la alzada no se allegó en el término legal establecido por el ordenamiento positivo”. </p>   
+              <a href="#" class="learn-more right"><span class="arrow">
+                <i class="fa fa-chevron-right"></i></span> leer más</a>              
+                <br class="clear">
+            </div>
+
+            </div>
+            
+
+</div>     
+</div>
+
+
+<div class="wrap-right" style="margin-top: 90px;box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7)">
+  <div style="width: 26px;height: 26px;position: absolute;background-color: grey;right: 24px;">
+<i class="fa fa-search fa-2x" aria-hidden="true" style="padding-top: 5px;padding-left: 5px;color: #fff"></i>
+  <div></div></div>
+<div class="sbox">
+</div>
+<br>
+<h2 class="font-orig" style="font-size:24px;#0b1732">CATEGORÍAS</h2>
+<ul>
+          <li><a class="font-orig" href="/news-resources/category/906/"><span class="arrow">►</span> Noticias de la firma</a></li>
+                <li><a class="font-orig" href="/news-resources/category/929/"><span class="arrow">►</span> Empleo</a></li>
+                <li><a class="font-orig" href="/news-resources/category/930/"><span class="arrow">►</span> Defensa del consumidor</a></li>
+                <li><a class="font-orig" href="/news-resources/category/1352/"><span class="arrow">►</span> Noticias Legales</a></li>
+            </ul>
+    <br>
+    <h2 class="font-orig" style="font-size:24px;#0b1732">Archivos<h2>
+<ul>
+            <li><a class="font-orig" href="/blog.php?year=2016&amp;month=Agosto"><span class="arrow">►</span> Agosto 2016</a></li>
+                    <li><a class="font-orig" href="/blog.php?year=2016&amp;month=Junio"><span class="arrow">►</span> Junio 2016</a></li>
+                    <li><a class="font-orig" href="/blog.php?year=2016&amp;month=Mayo"><span class="arrow">►</span> Mayo 2016</a></li>
+                    <li><a class="font-orig" href="/blog.php?year=2016&amp;month=Abril"><span class="arrow">►</span> Abril 2016</a></li>
+                    <li><a class="font-orig" href="/blog.php?year=2016&amp;month=Marzo"><span class="arrow">►</span> Marzo 2016</a></li>
+                    <li><a  class="font-orig" href="/blog.php?year=2016&amp;month=Febrero"><span class="arrow">►</span> Febrero 2016</a></li>
+                    <li><a class="font-orig" href="/blog.php?year=2015&amp;month=Enero"><span class="arrow">►</span> Enero 2015</a></li>
+                    </ul>
+
+  </div>
+
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+
+<footer id="footer" class="" >
+              <div class="col-md-12" style="padding-left: 0px;padding-right: 0px">
+                         <img src="map4.jpg" style="width: 100%">
+                        <div class="overlay">
+                                 <div class="overlayproto">
+                            <p class="text-center font-orig" style="font-size:25px;margin-bottom: 0px;padding: 0px;margin-top: 28px">PRIETO PELÁEZ ABOGADOS</p>
+                            <p class="text-center font-orig" style="font-size:16px;margin-bottom: 0px;padding: 0px"> Calle 4 sur No 43A-195</p>
+                            <p class="text-center font-orig" style="font-size:16px;margin-bottom: 0px;padding: 0px"><i class="fa fa-phone fa-1x" style="margin-right:0.5%;"></i>Cel: 304 2166730</p>
+                            <p class="text-center" ><i class="fa fa-facebook-square fa-3x" style="color:#fff;margin-right: 0.5%"></i>
+                            <i class="fa fa-twitter-square fa-3x" style="color:#fff"></i>
+                            </p>
+                          
+
+                                
+                                </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12" style="background-color:#0b1732 !important;border-top: 1px solid white">
+                             
+                            <div class="col-md-12" style="margin-top:36px;margin-bottom:25px">
+                                    <p class="text-info text-center font-orig" style="color:#fff;font-size:13px">©COPYRIGHT 2016 PRIETO PELÁEZ ABOGADOS</p>
+                                </div>
+                           </div>
+                        </footer>
+
+</body>
+</html>
